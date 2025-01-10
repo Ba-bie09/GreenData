@@ -69,7 +69,23 @@ The city of Atlanta has the highest healthcare needs with 973 (59%) counts of ad
 
 ## Recommendations
 1. There should be a revisit of the Data entries to find the missing variables especially in Gender.
-2. A lot of inconsistencies should be looked into and corrected, for example, a year old who is already an undergraduate and many others. 
+2. A lot of inconsistencies should be looked into and corrected, for example, a year old who is already an undergraduate and many others.
+
+# Report
+
+REPORT ON GREENDATA CLEANING
+1.	The data was checked for duplicates and three duplicates were found and removed.
+2.	Names are being changed to “Proper” format.
+3.	There are blank cells in the age column and there are some ages that are questionable, especially ages 0-20, where we have ID number 30 who is a year old, is an undergraduate student already. In view of these, the blank cells and age range 0-20 are in Lilac colour, because it is not ethical to assign random ages to patients medically; some illnesses are age-related.
+4.	Gender column was removed totally because only 1.8% of the entries were made.
+5.	The cities are narrowed down to three, and it was noticed that abbreviations made the cities six initially. They are changed to proper format too. 
+6.	The repitions in the Education were removed and the blank spaces filled with Null, because educational level cannot be fabricated to maintain reliability.
+7.	An additional column is created for Employment to separate the type e.g. Employed (Gig-work) are being separated into two columns by using “Find and Replace” and so on, to remove ambiguity, and to make it error free when using other tools like SQL, Python.
+8.	The Salary column is also having an additional column to separate the specifics e.g.  with “N/A” and “Missing” values being changed to “$0”.
+9.	In credit score, N/A are being replaced with “0” to have the same data type. Also 380 (Typo) are changed to “0” (Red).
+10.	Date of Admissions are changed to integers to have consistency in the data type. 
+11.	The dataset is changed to Table format.
+
 
 
 Thank you.
