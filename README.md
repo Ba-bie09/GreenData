@@ -21,6 +21,8 @@
 
 [Recommendations](#recommendations)
 
+[Report](#report)
+
 ## Project Overview
 ---
 The aim of this project is to analyze and clean messy data related to patients' health records. The goal is to help enhance critical thinking, attention to details, and problem-solving skills in data cleaning. 
