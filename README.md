@@ -46,16 +46,17 @@ At the beginning of Data Cleaning and Preparation, the following steps were take
 This includes exploring of data to identify cities or demographics with higher healthcare needs based on health conditions and admission dates.
 
 ## Data Analysis
-```=CONCAT
+```CONCAT
 
 ```FIND AND REPLACE
 
 ## Data Visualization
-![Final GreenData 1](https://github.com/user-attachments/assets/870319d2-fe0d-4f7a-ae53-7cf9b21e2729)
+![Final GreenData 1](https://github.com/user-attachments/assets/e44b4892-081c-4522-82d2-6313aea86f1a)
 
-![Final GreenData 3](https://github.com/user-attachments/assets/665f1b92-a3b4-42e7-9e30-5d87d73f31d2)
 
-![Final Pivot](https://github.com/user-attachments/assets/bc19262b-e28f-42ce-9fa2-dfe9c9f24ec0)
+
+
+
 
 
 ## Inference
