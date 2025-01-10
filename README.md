@@ -51,7 +51,9 @@ This includes exploring of data to identify cities or demographics with higher h
 ```FIND AND REPLACE
 
 ## Data Visualization
-![Final GreenData 1](https://github.com/user-attachments/assets/e44b4892-081c-4522-82d2-6313aea86f1a)
+
+
+
 
 
 
