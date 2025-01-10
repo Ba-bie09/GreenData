@@ -1,5 +1,5 @@
 ## GreenData
-#Data Cleaning Challenge
+Data Cleaning Challenge
 
 [Project Overview](#project-overview)
 
