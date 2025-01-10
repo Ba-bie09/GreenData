@@ -45,14 +45,6 @@ At the beginning of Data Cleaning and Preparation, the following steps were take
 ---
 This includes exploring of data to identify cities or demographics with higher healthcare needs based on health conditions and admission dates.
 
-## Data Analysis
-```CONCAT
-
-```FIND AND REPLACE
-
-## Data Visualization
-
-
 
 
 
