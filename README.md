@@ -54,7 +54,9 @@ This includes exploring of data to identify cities or demographics with higher h
 
 
 
-![Final GreenData 1](https://github.com/user-attachments/assets/fc7667d8-bfdb-47fb-a1c8-a606f0db53aa)
+
+
+
 
 
 
