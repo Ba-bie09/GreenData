@@ -52,7 +52,7 @@ This includes exploring of data to identify cities or demographics with higher h
 
 ## Data Visualization
 
-![Final GreenData 1](https://github.com/user-attachments/assets/672afe0f-4739-4d8a-9ea5-e98a9fe662d5)
+
 
 
 
